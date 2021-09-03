@@ -16,6 +16,24 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+
   <br />
   <br />
   <img
