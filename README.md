@@ -37,7 +37,7 @@
   <br />
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=earosselot&show_icons=true&theme=react&hide_border=true&hide=contribs"
+    src="https://github-readme-stats.vercel.app/api?username=earosselot&count_private=true&show_icons=true&theme=react&hide_border=true&hide=contribs"
   />
   <br />
   <br />
