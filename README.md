@@ -45,8 +45,4 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=earosselot&theme=react&hide_border=true"
   />
   <br />
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=earosselot&layout=compact&theme=react&hide_border=true&exclude_repo=Python_UNSAM,Topicos-de-Programacion-TPs"
-  />
 </div>
